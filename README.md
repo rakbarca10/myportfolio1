@@ -12,4 +12,4 @@ MADE BY CHANDRIKA DEB, ALL CREDITS TO HER
 MODIFIED BY RAKSHITH
 
 
-:e-mail: rakshith16102000@gmail.com
+https://rakshithmyportfolio1.netlify.app/
