@@ -6,10 +6,6 @@
 
 Good Luck! :+1: 
 
-MADE BY CHANDRIKA DEB, ALL CREDITS TO HER
-
-
-MODIFIED BY RAKSHITH
-
-
 https://rakshithmyportfolio1.netlify.app/
+
+CREDITS TO CHANDRIKA DEB.
