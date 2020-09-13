@@ -1,4 +1,8 @@
- $('#loader').addClass("hide-loader");
+$(function() {
+    $(".preload").fadeOut(2000, function() {
+        $(".content").fadeIn(1000);        
+    });
+});​
 
 $(document).ready(function(){
   $('.fa-chevron-up').click(function () {
