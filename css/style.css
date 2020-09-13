@@ -37,6 +37,10 @@
 	100%{left:80%;}
 }
 
+.hide-loader{
+display:none;
+}
+
 
 
 @font-face {
