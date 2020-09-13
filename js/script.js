@@ -1,7 +1,5 @@
-$(function() {
-    $(".preload").fadeOut(2000, function() {
-        $(".content").fadeIn(1000);        
-    });
+$(window).load(function() {
+        $(".loader").fadeOut("slow");
 });
 
 $(document).ready(function(){
