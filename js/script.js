@@ -1,6 +1,4 @@
-$(window).load(function() {
-        $(".loader").fadeOut("slow");
-});
+
 
 $(document).ready(function(){
   $('.fa-chevron-up').click(function () {
