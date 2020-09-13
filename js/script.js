@@ -1,3 +1,5 @@
+ $('#loader').addClass("hide-loader");
+
 $(document).ready(function(){
   $('.fa-chevron-up').click(function () {
         $('body').animate({
